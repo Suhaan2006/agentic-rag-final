@@ -1,10 +1,3 @@
-Got it — then you just need a **small change in the README** so it correctly reflects OpenAI instead of Groq.
-
-Here’s your **final corrected, copy-paste README (OpenAI version)**:
-
----
-
-````md
 # 🚀 Agentic RAG System for AI Regulation Analysis
 
 > An agentic Retrieval-Augmented Generation (RAG) system that intelligently decides how to answer queries by classifying them into factual, synthesis, or out-of-scope — with a fully runnable evaluation framework.
@@ -289,3 +282,6 @@ Cause: Prompt limitations
 ---
 
 > Built with a focus on reliability, interpretability, and real-world failure handling.
+
+
+
